@@ -33,7 +33,13 @@ Final Score = (Distance_norm × 0.60) + (Workload_norm × 0.20) + (Fatigue_norm 
   * Driver: Manages operational availability, driver rating, trip counts, and cooldown timers[cite: 1, 2].
 * FareStrategy (Interface): Defines the pricing contract implemented by StandardPricing and SurgePricing[cite: 1, 2].
 * RideMatchingEngine: Central orchestrator managing dynamic driver pools, ride execution, and analytical benchmarks[cite: 1, 2].
+---
 
+### 📄 Project Documentation
+
+For an in-depth breakdown of the object-oriented design and mathematical modeling behind this engine, refer to the full report[cite: 1]:
+
+* [View Project Documentation (PDF)](Project_Report.pdf) — Covers the class inheritance diagrams, state transitions, runtime normalization proofs, and system fairness benchmarks[cite: 1].
 ---
 
 ### 🚀 Getting Started
@@ -50,3 +56,4 @@ g++ -std=c++11 src/main.cpp -o ride_engine
 
 # Run the simulator
 ./ride_engine
+
