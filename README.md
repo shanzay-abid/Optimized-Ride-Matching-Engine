@@ -39,7 +39,7 @@ Final Score = (Distance_norm × 0.60) + (Workload_norm × 0.20) + (Fatigue_norm 
 
 For an in-depth breakdown of the object-oriented design and mathematical modeling behind this engine, refer to the full report[cite: 1]:
 
-* [View Project Documentation (PDF)](Project_Report.pdf) — Covers the class inheritance diagrams, state transitions, runtime normalization proofs, and system fairness benchmarks[cite: 1].
+* [View Project Documentation (PDF)](docs/Project_Report.pdf) — Covers the class inheritance diagrams, state transitions, runtime normalization proofs, and system fairness benchmarks[cite: 1].
 ---
 
 ### 🚀 Getting Started
