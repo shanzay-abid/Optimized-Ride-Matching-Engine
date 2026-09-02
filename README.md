@@ -40,7 +40,7 @@ Final Score = (Distance_norm × 0.60) + (Workload_norm × 0.20) + (Fatigue_norm 
 
 #### Terminal (g++ / Clang)
 
-`bash
+```bash
 # Clone the repository
 git clone [https://github.com/](https://github.com/)<your-username>/ride-matching-engine.git
 cd ride-matching-engine
